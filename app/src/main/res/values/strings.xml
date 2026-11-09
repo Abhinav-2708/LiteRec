@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LiteRec</string>
+    <string name="quick_settings_tile_label">LiteRec</string>
+    <string name="quick_settings_tile_recording">Recording</string>
+    <string name="notification_channel_name">Screen Recording</string>
+    <string name="notification_channel_desc">Active screen capture and recording controls</string>
+    <string name="notification_title_recording">Recording Screen</string>
+    <string name="notification_action_stop">Stop</string>
+    <string name="notification_saved_title">Recording Saved</string>
+    <string name="notification_saved_msg">Saved to Movies/LiteRec</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="ready_to_record">Ready to record</string>
+    <string name="recording_in_progress">Screen capture active</string>
+    <string name="settings_title">Settings</string>
+    <string name="recordings_title">Recordings</string>
+    <string name="resolution">Resolution</string>
+    <string name="fps">Frame Rate</string>
+    <string name="bitrate">Video Bitrate</string>
+    <string name="internal_audio">Internal Audio</string>
+    <string name="internal_audio_desc">Captures eligible media and game audio (Android 10+)</string>
+    <string name="mic_audio_note">Microphone recording is disabled for privacy and clarity</string>
+    <string name="audio_disabled_warning">Internal playback capture not supported or silenced by system</string>
+    <string name="tile_guide_title">Quick Settings Tile</string>
+    <string name="tile_guide_desc">Add the LiteRec tile to your Quick Settings panel for 1-tap capture from anywhere.</string>
+</resources>

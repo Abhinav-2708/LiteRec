@@ -1,0 +1,6 @@
+{
+  "name": "LiteRec",
+  "description": "Ultra lightweight native Android screen and internal audio recorder with low CPU overhead and Quick Settings tile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
